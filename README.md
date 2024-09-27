@@ -28,4 +28,4 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data Sc
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-torrestorres93/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Alejandro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-torrestorres93/)
